@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Encryption
-comment1.params=
-comment1.target=Encryption()
-comment2.params=num\ en_or_de
-comment2.target=java.lang.String[]\ crypt(int[],\ boolean)
-numComments=3
