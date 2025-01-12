@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WriteFile
+comment1.params=str
+comment1.target=void\ writeOutput(java.lang.String[])
+comment2.params=str
+comment2.target=void\ writeInput(java.lang.String[])
+comment3.params=in_put\ out
+comment3.target=void\ deleteFile(boolean,\ boolean)
+numComments=4
